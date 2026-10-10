@@ -2,8 +2,6 @@
 > [!WARNING]
 > **An Anime Game Launcher is a project by An Anime Team. I have no direct connection or communication with the project managers.**
 
-
-Installation via EOPKG (solus)
 ```bash
 sudo eopkg install https://github.com/kayrakrh/an-anime-game-launcher-eopkg/releases/download/v3.19.7/an-anime-game-launcher-3.19.7-4-1-x86_64.eopkg
 ```
